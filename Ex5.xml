@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona dni="12345678A">
+    <nom>Laura</nom>
+    <edat>25</edat>
+    <ciutat>Barcelona</ciutat>
+    <aficio>Lectura</aficio>
+    <aficio>Natació</aficio>
+    <nivell>mitja</nivell>
+</persona>
