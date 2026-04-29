@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activitats>
+
+    <activitat codi="A01" tipus="esportiva">
+        <nom>Futbol sala</nom>
+        <monitor>Jordi Riera</monitor>
+        <horari>Dilluns i dimecres 17:00-18:30</horari>
+        <participant>Marc</participant>
+        <participant>Laia</participant>
+        <participant>Nil</participant>
+        <lloc>
+            <interior>Pavelló 2</interior>
+        </lloc>
+    </activitat>
+
+    <activitat codi="B12" tipus="artistica">
+        <nom>Dibuix creatiu</nom>
+        <monitor>Anna Soler</monitor>
+        <participant>Clara</participant>
+        <participant>Hugo</participant>
+        <lloc>
+            <exterior>Pati d’arts</exterior>
+        </lloc>
+    </activitat>
+
+</activitats>
