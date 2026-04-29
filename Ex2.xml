@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumne id="A123" tipus="presencial">
+    <nom>Keanne</nom>
+    <cognom>Montero</cognom>
+    <telefon>678123456</telefon>
+    <email>keanne@example.com</email>
+    <modul>Programació</modul>
+    <modul>Bases de dades</modul>
+</alumne>
