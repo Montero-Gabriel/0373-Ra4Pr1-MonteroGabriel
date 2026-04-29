@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+
+    <producte id="P001" estat="nou">
+        <nom>Portàtil HP 15</nom>
+        <preu>599.99</preu>
+        <stock>12</stock>
+        <categoria>informatica</categoria>
+        <marca>HP</marca>
+        <etiqueta>oferta</etiqueta>
+        <etiqueta>portatil</etiqueta>
+    </producte>
+
+    <producte id="L102" estat="oferta">
+        <nom>El Petit Príncep</nom>
+        <preu>12.50</preu>
+        <stock>45</stock>
+        <categoria>llibres</categoria>
+        <etiqueta>infantil</etiqueta>
+    </producte>
+
+</botiga>
