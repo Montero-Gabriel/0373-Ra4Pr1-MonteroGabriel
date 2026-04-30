@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE activitats SYSTEM "Ex3.dtd">
+
 <activitats>
 
     <activitat codi="A01" tipus="esportiva">
@@ -9,7 +11,7 @@
         <participant>Laia</participant>
         <participant>Nil</participant>
         <lloc>
-            <interior>Pavelló 2</interior>
+            <interior/>
         </lloc>
     </activitat>
 
@@ -19,7 +21,7 @@
         <participant>Clara</participant>
         <participant>Hugo</participant>
         <lloc>
-            <exterior>Pati d’arts</exterior>
+            <exterior/>
         </lloc>
     </activitat>
 
